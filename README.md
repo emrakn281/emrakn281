@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emrakn281
 - 👀 I’m interested in Playing Games, Watching Movies.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me emr.akn.2001@gmail.com
 
 <!---
